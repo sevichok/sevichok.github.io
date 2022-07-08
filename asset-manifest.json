@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.43b62958.css",
-    "main.js": "/static/js/main.60d7e723.js",
-    "static/media/calendar.svg": "/static/media/calendar.b503700331dd686d05a5222cefc60e51.svg",
-    "static/media/settings.svg": "/static/media/settings.a584fabf4b1f4f0fb970600a213800c5.svg",
-    "static/media/group.svg": "/static/media/group.bb11c4386ffd48151e6940adb750d095.svg",
-    "static/media/notfications-empty.svg": "/static/media/notfications-empty.7fa9f73587d08505247713a3deb8c679.svg",
-    "static/media/setting.svg": "/static/media/setting.20616e8ba91b1866fa433b628cd9ed7e.svg",
-    "static/media/icon.svg": "/static/media/icon.020853d0862387bce10dc7979f1d0c19.svg",
-    "static/media/Avatar.svg": "/static/media/Avatar.25549620108a46b769f628fc3efb24a4.svg",
-    "static/media/home.svg": "/static/media/home.fa59bb89633b6bb43f09d1be7208353f.svg",
-    "static/media/folder.svg": "/static/media/folder.0aa2ac82ac900bd227fef3aacb117288.svg",
+    "main.css": "/static/css/main.1cf05f31.css",
+    "main.js": "/static/js/main.e8251d0e.js",
+    "static/media/react.png": "/static/media/react.b71478260eb1c5d2c946.png",
+    "static/media/image8.png": "/static/media/image8.5f81a9cb8612e4c07332.png",
+    "static/media/image9.png": "/static/media/image9.c31427f14aa2a89c87ed.png",
+    "static/media/image12.png": "/static/media/image12.56626a9a460d2c2c0f54.png",
+    "static/media/image13.png": "/static/media/image13.7d91010f8bd1189a6daa.png",
+    "static/media/app3.png": "/static/media/app3.1e89a3a2d907b2691314.png",
+    "static/media/app2.png": "/static/media/app2.383f908b6fcf637c1dae.png",
+    "static/media/app7.png": "/static/media/app7.a95675ab517934f75dca.png",
+    "static/media/app6.png": "/static/media/app6.bd40124c7c1e5479744c.png",
+    "static/media/app4.png": "/static/media/app4.4be639addf5c253d426c.png",
+    "static/media/app8.png": "/static/media/app8.a95135f7708cd8a5b11a.png",
+    "static/media/angular.png": "/static/media/angular.c885b6a435435fb1aa88.png",
+    "static/media/app1.png": "/static/media/app1.19c97abb0491c532cc1c.png",
+    "static/media/app5.png": "/static/media/app5.351fc7959747d9273e56.png",
+    "static/media/backgroundImg.png": "/static/media/backgroundImg.dde76b0f4d861d908fcc.png",
+    "static/media/vue.png": "/static/media/vue.2238ebd1f4e63a6882ad.png",
     "index.html": "/index.html",
-    "main.43b62958.css.map": "/static/css/main.43b62958.css.map",
-    "main.60d7e723.js.map": "/static/js/main.60d7e723.js.map"
+    "main.1cf05f31.css.map": "/static/css/main.1cf05f31.css.map",
+    "main.e8251d0e.js.map": "/static/js/main.e8251d0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.43b62958.css",
-    "static/js/main.60d7e723.js"
+    "static/css/main.1cf05f31.css",
+    "static/js/main.e8251d0e.js"
   ]
 }
